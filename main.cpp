@@ -1,6 +1,5 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!\n";
-    std::cout << "Hello, Vasiliy Aleksandrovich!\n";
+    std::cout << "Hello, top-it\n";
 }
